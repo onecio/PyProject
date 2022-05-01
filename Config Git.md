@@ -13,4 +13,7 @@ git remote add origin https://github.com/onecio/PyProject.git
 
 git push -u origin main
 
+git diff
+
+git commit -p (com pausas)
 

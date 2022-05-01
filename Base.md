@@ -13,3 +13,13 @@ https://school.linuxtips.io/courses/1756458/lectures/39597203
 https://vscode.dev/
 https://replit.com/@onecio/GentleLightgreyWebsphere#main.py
 https://docs.python.org/3.10/tutorial/
+
+# ESTE É UMA FORMA DE FAZER COMENTÁRIOS EM PYTHON
+
+print ("Hello, World") #Comentário de tag
+
+#!/usr/bin/env python3 #shebang in Python
+
+which python #Encontra o caminho do python 
+
+env #mostra a caracteristicas do ambiente de desenvolvimento
