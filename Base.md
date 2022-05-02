@@ -23,3 +23,16 @@ print ("Hello, World") #Comentário de tag
 which python #Encontra o caminho do python 
 
 env #mostra a caracteristicas do ambiente de desenvolvimento
+
+"""Comentários multilinhas
+São três aspas duplas
+
+"""
+
+__txt__ = Dunder
+
+PEP8 - Guia de Estilo
+
+txt_txt = # SNACKE CASE (VARIAVEL EM PYTHON)
+
+TextoTexto = # PASCAL CASE
